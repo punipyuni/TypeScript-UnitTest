@@ -1,4 +1,5 @@
 # TypeScript UnitTest
+TypeScript project that implements the merge function for merging three sorted arrays without using any built-in sort functions including unit tests.
 ## Setting up the Project
 Initialize a new TypeScript project
 ```
